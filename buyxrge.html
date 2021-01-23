@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+
 <head>
     <!-- Required meta tags -->
     <meta charset="UTF-8">
@@ -8,7 +9,7 @@
     <meta name="author" content="RougeCoin Team">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>RougeCoin - ICO, Newsletter, and Updates</title>
-    <link rel="icon"  href="images/favicon.ico" type="image/x-icon"> <link rel="shortcut icon"  href="images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
     <!-- Goole Font -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet"> 
     <!-- Bootstrap CSS -->
@@ -26,7 +27,7 @@
     <link rel="stylesheet" href="css/assets/preloader.css">
     <!-- main style-->
     <link rel="stylesheet" href="css/style.css">
-    
+    <link rel="stylesheet" href="css/cryptonio.css">
     <link rel="stylesheet" href="css/responsive.css">
                             
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -37,9 +38,15 @@
     <![endif]-->
 </head>
 <body class="body_06">
+<!-- Preloader -->
+<div id="loader-wrapper">
+    <div id="loader"></div>
+    <div class="loader-section section-left"></div>
+    <div class="loader-section section-right"></div>
+</div>
 <header id="header-06" class="header">
     <!-- START NAVBAR -->
-<nav class="navbar navbar-expand-md navbar-light bg-faded cripto_nav">
+    <nav class="navbar navbar-expand-md navbar-light bg-faded cripto_nav">
         <div class="container">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <i class="fas fa-bars"></i>
@@ -48,21 +55,21 @@
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item"><a href="https://www.facebook.com/RougeCoin/"><i class="fab fa-facebook-f"></i></a></li>
+					<li class="nav-item"><a href="https://www.facebook.com/RougeCoin/"><i class="fab fa-facebook-f"></i></a></li>
 					<li class="nav-item"><a href="https://twitter.com/rougecoin?lang=en"><i class="fab fa-twitter"></i></a></li>
                     <li class="nav-item"><a href="https://t.me/rougecoin"><i class="fab fa-telegram"></i></a></li>
                     <li class="nav-item"><a href="https://discord.gg/YxB5BSsT"><i class="fab fa-discord"></i></a></li>
 					<li class="nav-item"><a href="https://github.com/rougecoin-project/RougeCoin"><i class="fab fa-github"></i></a></li>
-                    <li class="nav-item"><a data-scroll href="https://www.rougecoin.xyz/index.html#header-06" class="nav-link active">Home</a></li>
-                    <li class="nav-item"><a data-scroll href="https://www.rougecoin.xyz/index.html#bougee" class="nav-link">About</a></li>
-                    <li class="nav-item"><a data-scroll href="https://www.rougecoin.xyz/index.html#roadmap_06" class="nav-link">Roadmap</a></li>
-                    <li class="nav-item"><a data-scroll href="https://www.rougecoin.xyz/index.html#team_membar_06" class="nav-link">Team</a></li>                    
+                    <li class="nav-item"><a data-scroll href="index.html" class="nav-link active">Home</a></li>
+                    <li class="nav-item"><a data-scroll href="#bougee" class="nav-link">About</a></li>
+                    <li class="nav-item"><a data-scroll href="#roadmap_06" class="nav-link">Roadmap</a></li>
+                    <li class="nav-item"><a data-scroll href="#team_membar_06" class="nav-link">Team</a></li>                    
                     <li class="nav-item"><a data-scroll href="https://github.com/rougecoin-project/RougeCoin" class="nav-link">Github</a></li>
-                    <li class="nav-item"><a data-scroll href="https://www.rougecoin.xyz/index.html#contact_06" class="nav-link">Contact</a></li>
+                    <li class="nav-item"><a data-scroll href="#contact_06" class="nav-link">Contact</a></li>
                 </ul>
             </div>
             <div class="language">
-                <a href="http://uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0xa1c7d450130bb77c6a23ddfaecbc4a060215384b" target="_blank" class="btn token">Buy XRGE</a>
+                <a href="buyxrge.html" class="token">Buy token</a>
                 <div class="dropdown"><span>Eng<i class="fas fa-chevron-down"></i></span>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="blog.html">Deutsch</a></li>
