@@ -33,7 +33,8 @@ social = [
 
 secretkey = [
   "<br>",
-  '<span class="command">hint 1</span>           the color of the crystal in a magical gallery behind the great 2nd wall',
+  '<span class="command">hint 1</span>           the color of the crystal in a magical',
+   '                                             gallery behind the great 2nd wall',
   "<br>",
   '<span class="command">hint 2</span>           the color of the crystal in a magical gallery behind the great 2nd wall',
   "<br>"
