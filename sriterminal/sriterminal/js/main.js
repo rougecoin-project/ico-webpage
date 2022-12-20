@@ -38,7 +38,7 @@ function enterKey(e) {
       pwd = true;
     }
     if (pwd && e.keyCode == 13) {
-      loopLines(secret, "color2 margin", 120);
+      loopLines(secret_key, "color2 margin", 120);
       command.innerHTML = "";
       textarea.value = "";
       pwd = false;
@@ -82,17 +82,20 @@ function commander(cmd) {
     case "start":
       loopLines(start, "color2 margin", 80);
       break;
+    case "secret_key":
+      loopLines(secret_key, "color2 margin", 80);
+      break;
     case "whois":
       loopLines(whois, "color2 margin", 80);
       break;
     case "whoami":
       loopLines(whoami, "color2 margin", 80);
       break;
-    case "video":
+    case "music":
       addLine("Opening YouTube...", "color2", 80);
       newTab(youtube);
       break;
-    case "amethyst":
+    case "purple":
       addLine("Congratulations, you have hacked the algorhythm...", "color2", 80);
       setTimeout(function() {
         window.open('https://www.srikala.com/quest');
@@ -101,7 +104,7 @@ function commander(cmd) {
     case "social":
       loopLines(social, "color2 margin", 80);
       break;
-    case "secret":
+    case "secret_key":
       liner.classList.add("password");
       pw = true;
       break;
