@@ -45,10 +45,10 @@ projects = [
 
 start = [
   "<br>",
-  '<span class="command">secretkey</span>      surrender',
+  '<span class="command">secretkey</span>      hint1 + hint2',
   '<span class="command">whois</span>          Who is Sri Kala?',
   '<span class="command">whoami</span>         Who are you?',
-  '<span class="command">video</span>          View YouTube videos',
+  '<span class="command">music</span>          listen to music',
   '<span class="command">social</span>         Display social networks',
   
   '<span class="command">projects</span>       View current projects',
