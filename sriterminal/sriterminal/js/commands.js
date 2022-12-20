@@ -52,9 +52,7 @@ start = [
   '<span class="command">secret</span>         surrender',
   '<span class="command">projects</span>       View current projects',
   '<span class="command">history</span>        View command history',
-  '<span class="command">start</span>           You obviously already know what this does',
-  '<span class="command">email</span>          Reach Out',
-  '<span class="command">clear</span>          Clear terminal',
+
   
   "<br>",
 ];
