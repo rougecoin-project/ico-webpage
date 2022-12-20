@@ -31,7 +31,7 @@ social = [
   "<br>"
 ];
 
-secret_key = [
+secretkey = [
   "<br>",
   '<span class="command">hint</span>           I am the crystal in a magical gallery behind the great 2nd wall',
   "<br>"
@@ -45,7 +45,7 @@ projects = [
 
 start = [
   "<br>",
-  '<span class="command">secret_key</span>     surrender',
+  '<span class="command">secretkey</span>     surrender',
   '<span class="command">whois</span>          Who is Sri Kala?',
   '<span class="command">whoami</span>         Who are you?',
   '<span class="command">video</span>          View YouTube videos',

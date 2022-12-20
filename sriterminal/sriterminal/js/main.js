@@ -38,7 +38,7 @@ function enterKey(e) {
       pwd = true;
     }
     if (pwd && e.keyCode == 13) {
-      loopLines(secret_key, "color2 margin", 120);
+      loopLines(secretkey, "color2 margin", 120);
       command.innerHTML = "";
       textarea.value = "";
       pwd = false;
@@ -82,8 +82,8 @@ function commander(cmd) {
     case "start":
       loopLines(start, "color2 margin", 80);
       break;
-    case "secret_key":
-      loopLines(secret_key, "color2 margin", 80);
+    case "secretkey":
+      loopLines(secretkey, "color2 margin", 80);
       break;
     case "whois":
       loopLines(whois, "color2 margin", 80);
@@ -104,7 +104,7 @@ function commander(cmd) {
     case "social":
       loopLines(social, "color2 margin", 80);
       break;
-    case "secret_key":
+    case "secretkey":
       liner.classList.add("password");
       pw = true;
       break;
