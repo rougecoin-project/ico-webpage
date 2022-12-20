@@ -61,7 +61,7 @@ b {
 }
 #liner::before {
   color: #519975;
-  content: "traveler@srikala.com:~$";
+  content: "traveler@0010110:~$";
 }
 #liner.password::before {
   content: "Password:";
