@@ -31,7 +31,7 @@ social = [
   "<br>"
 ];
 
-secret = [
+secret key = [
   "<br>",
   '<span class="command">hint</span>           I am the crystal in a magical gallery behind the great 2nd wall',
   "<br>"
@@ -45,17 +45,13 @@ projects = [
 
 start = [
   "<br>",
+  '<span class="command">secret key</span>         surrender',
   '<span class="command">whois</span>          Who is Sri Kala?',
   '<span class="command">whoami</span>         Who are you?',
-  '<span class="command">video</span>          View YouTube videos',
+  '<span class="command">music</span>          sri playlist',
   '<span class="command">social</span>         Display social networks',
-  '<span class="command">secret</span>         surrender',
   '<span class="command">projects</span>       View current projects',
   '<span class="command">history</span>        View command history',
-  '<span class="command">start</span>           You obviously already know what this does',
-  '<span class="command">email</span>          Reach Out',
-  '<span class="command">clear</span>          Clear terminal',
-  '<span class="command">banner</span>         Display the header',
   "<br>",
 ];
 
@@ -67,6 +63,6 @@ banner = [
   "╚════██║██╔══██╗██║    ██╔═██╗ ██╔══██║██║     ██╔══██║ ",
   "███████║██║  ██║██║    ██║  ██╗██║  ██║███████╗██║  ██║ ",
   "╚══════╝╚═╝  ╚═╝╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ",
-  '<span class="color2">Welcome to my interactive web terminal.</span>',
+  '<span class="color2">Going back to where it all began...</span>',
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'start'</span><span class=\"color2\">.</span>",
 ];
