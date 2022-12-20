@@ -45,7 +45,7 @@ projects = [
 
 start = [
   "<br>",
-  '<span class="command">secretkey</span>     surrender',
+  '<span class="command">secretkey</span>      surrender',
   '<span class="command">whois</span>          Who is Sri Kala?',
   '<span class="command">whoami</span>         Who are you?',
   '<span class="command">video</span>          View YouTube videos',
