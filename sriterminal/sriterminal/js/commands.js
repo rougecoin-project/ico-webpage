@@ -31,7 +31,7 @@ social = [
   "<br>"
 ];
 
-secret key = [
+secret = [
   "<br>",
   '<span class="command">hint</span>           I am the crystal in a magical gallery behind the great 2nd wall',
   "<br>"
@@ -49,7 +49,7 @@ start = [
   '<span class="command">whoami</span>         Who are you?',
   '<span class="command">video</span>          View YouTube videos',
   '<span class="command">social</span>         Display social networks',
-  '<span class="command">secret key</span>         surrender',
+  '<span class="command">secret</span>         surrender',
   '<span class="command">projects</span>       View current projects',
   '<span class="command">history</span>        View command history',
   '<span class="command">start</span>           You obviously already know what this does',
