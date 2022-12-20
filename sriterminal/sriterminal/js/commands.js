@@ -43,7 +43,7 @@ projects = [
   "<br>"
 ];
 
-help = [
+start = [
   "<br>",
   '<span class="command">whois</span>          Who is Sri Kala?',
   '<span class="command">whoami</span>         Who are you?',
@@ -52,7 +52,7 @@ help = [
   '<span class="command">secret</span>         surrender',
   '<span class="command">projects</span>       View current projects',
   '<span class="command">history</span>        View command history',
-  '<span class="command">help</span>           You obviously already know what this does',
+  '<span class="command">start</span>           You obviously already know what this does',
   '<span class="command">email</span>          Reach Out',
   '<span class="command">clear</span>          Clear terminal',
   '<span class="command">banner</span>         Display the header',
@@ -68,5 +68,5 @@ banner = [
   "███████║██║  ██║██║    ██║  ██╗██║  ██║███████╗██║  ██║ ",
   "╚══════╝╚═╝  ╚═╝╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ",
   '<span class="color2">Welcome to my interactive web terminal.</span>',
-  "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
+  "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'start'</span><span class=\"color2\">.</span>",
 ];
