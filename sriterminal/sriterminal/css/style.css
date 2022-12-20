@@ -60,7 +60,7 @@ b {
   opacity: 0;
 }
 #liner::before {
-  color: #519975;
+  color: #d1bd05;
   content: "traveler@0010110:~$";
 }
 #liner.password::before {
