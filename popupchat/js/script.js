@@ -21,6 +21,7 @@ async function submitMessage(event) {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
+          'Authorization': `Bearer ${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}`,
         },
         body: JSON.stringify({ message }),
       });
