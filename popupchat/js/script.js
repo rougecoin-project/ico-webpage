@@ -17,11 +17,11 @@ async function submitMessage(event) {
   
   async function sendMessageToChatGPT(message) {
     try {
-      const response = await fetch('https://api.chatgpt.com/message', {
+      const response = await fetch('https://api.openai.com/v1/completions', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': `Bearer ${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}`,
+          'Authorization': `Bearer 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`,
         },
         body: JSON.stringify({ message }),
       });
