@@ -7,15 +7,15 @@ var email = 'mailto:admin@srikala.com';
 
 whois = [
   "<br>",
-"bending time and space",
-"through sound oscillations",
-"transmitting unique healings",
-"mental landscapes touch the earth",
-"emotions find they way home",
-"through my vocal tones",
-"mantras kept the fire strong when",
-"my teacher gifted me the name",
-"Sri Kala",
+  "bending time and space",
+  "through sound oscillations",
+  "transmitting unique healings",
+  "mental landscapes touch the earth",
+  "emotions find they way home",
+  "through my vocal tones",
+  "mantras kept the fire strong when",
+  "my teacher gifted me the name",
+  "Sri Kala",
   "<br>"
 ];
 
