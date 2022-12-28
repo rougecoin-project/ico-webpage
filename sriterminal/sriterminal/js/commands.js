@@ -42,7 +42,7 @@ key = [
   '<span class="command">clue 2</span>           the name of Sri Kalas next song at the',
   '                    end of the video in the Magical Gallery Wall',
   '                    Find the graphic that says “Come Home” and the video', 
-  '                     is Sri vibing out in his studio',
+  '                     is Sri vibing out in his studio... password= clue1clue2',
   "<br>"
 ];
 
