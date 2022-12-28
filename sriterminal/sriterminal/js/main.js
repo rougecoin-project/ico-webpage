@@ -101,8 +101,8 @@ function commander(cmd) {
         window.open('https://www.srikala.com/quest');
       }, 1000); 
       break;
-    case "social":
-      loopLines(social, "color2 margin", 80);
+    case "comehome":
+      loopLines(comehome, "color2 margin", 80);
       break;
     case "key":
       liner.classList.add("password");
@@ -133,8 +133,8 @@ function commander(cmd) {
       loopLines(banner, "", 80);
       break;
     // socials
-    case "youtube":
-      addLine("Opening YouTube...", "color2", 80);
+    case "comehome":
+      addLine("Returning Home...", "color2", 80);
       newTab(youtube);
       break;
     case "twitter":

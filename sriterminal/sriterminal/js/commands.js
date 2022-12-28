@@ -25,12 +25,9 @@ whoami = [
   "<br>"
 ];
 
-social = [
+comehome = [
   "<br>",
-  'youtube        <a href="' + youtube + '" target="_blank">youtube/srikala' + "</a>",
-  'twitter        <a href="' + twitter + '" target="_blank">twitter/srikalamusic' + '</a>',
-  'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/sri-kala-roach' + "</a>",
-  'instagram      <a href="' + instagram + '" target="_blank">instagram/srikalagram' + '</a>',
+  'home        <a href="' + comehome + '" target="_blank">home/srikala' + "</a>",
   "<br>"
 ];
 
@@ -58,7 +55,7 @@ start = [
   '<span class="command">whois</span>          Who is Sri Kala?',
   '<span class="command">whoami</span>         Who are you?',
   '<span class="command">music</span>          listen to music',
-  '<span class="command">social</span>         Display social networks',
+  '<span class="command">comehome</span>       return to home',
   
   
   '<span class="command">history</span>        View command history',
