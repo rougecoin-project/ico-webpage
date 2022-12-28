@@ -92,5 +92,5 @@ banner = [
   "██░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░██",
   "██████████████████████████████████████████████████",
   '<span class="color2">Going back to where it all began...</span>',
-  "<span class=\"color2\">Going back to where it all began... breaking down the visual demands... For a list of available commands, type</span> <span class=\"command\">'start'</span><span class=\"color2\">.</span>",
+  "<span class=\"color2\">Breaking down the visual demands... For a list of available commands, type</span> <span class=\"command\">'start'</span><span class=\"color2\">.</span>",
 ];
