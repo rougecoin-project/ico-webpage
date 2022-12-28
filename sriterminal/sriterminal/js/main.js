@@ -82,7 +82,7 @@ function commander(cmd) {
     case "start":
       loopLines(start, "color2 margin", 80);
       break;
-    case "secretkey":
+    case "key":
       loopLines(secretkey, "color2 margin", 80);
       break;
     case "whois":
@@ -95,7 +95,7 @@ function commander(cmd) {
       addLine("Opening YouTube...", "color2", 80);
       newTab(youtube);
       break;
-    case "purple":
+    case "purpleanuwe":
       addLine("Congratulations, you have hacked the algorhythm...", "color2", 80);
       setTimeout(function() {
         window.open('https://www.srikala.com/quest');
@@ -104,7 +104,7 @@ function commander(cmd) {
     case "social":
       loopLines(social, "color2 margin", 80);
       break;
-    case "secretkey":
+    case "key":
       liner.classList.add("password");
       pw = true;
       break;

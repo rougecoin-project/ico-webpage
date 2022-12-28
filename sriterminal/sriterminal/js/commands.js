@@ -34,7 +34,7 @@ social = [
   "<br>"
 ];
 
-secretkey = [
+key = [
   "<br>",
   '<span class="command">clue 1</span>           the color of the crystal in a magical',
   '                   gallery behind the great 2nd wall                                              ',
@@ -54,13 +54,13 @@ projects = [
 
 start = [
   "<br>",
-  '<span class="command">secretkey</span>      key = clue1clue2',
+  '<span class="command">key</span>            key = clue1clue2',
   '<span class="command">whois</span>          Who is Sri Kala?',
   '<span class="command">whoami</span>         Who are you?',
   '<span class="command">music</span>          listen to music',
   '<span class="command">social</span>         Display social networks',
   
-  '<span class="command">projects</span>       View current projects',
+  
   '<span class="command">history</span>        View command history',
 
   
@@ -92,5 +92,5 @@ banner = [
   "██░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░██",
   "██████████████████████████████████████████████████",
   '<span class="color2">Going back to where it all began...</span>',
-  "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'start'</span><span class=\"color2\">.</span>",
+  "<span class=\"color2\">Going back to where it all began... breaking down the visual demands... For a list of available commands, type</span> <span class=\"command\">'start'</span><span class=\"color2\">.</span>",
 ];
