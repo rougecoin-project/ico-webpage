@@ -7,12 +7,15 @@ var email = 'mailto:admin@srikala.com';
 
 whois = [
   "<br>",
-  "Hey, I'm Sri Kala!👋",
-  "I have deep connection to the oscillations of sound vibration,",
-  "and use mantra and sound frequencies to transmit unique quantum healing",
-  "With nearly twenty years of practice and study, I have mastered a rare capacity to hear",
-  "and feel energy frequencies on the subtle platform",
-  "and recreate them with my voice to promote healing for the mind and body.",
+"bending time and space",
+"through sound oscillations",
+"transmitting unique healings",
+"mental landscapes touch the earth",
+"emotions find they way home",
+"through my vocal tones",
+"mantras kept the fire strong when",
+"my teacher gifted me the name",
+"Sri Kala",
   "<br>"
 ];
 
@@ -33,10 +36,11 @@ social = [
 
 secretkey = [
   "<br>",
-  '<span class="command">hint 1</span>           the color of the crystal in a magical',
+  '<span class="command">clue 1</span>           the color of the crystal in a magical',
   '                   gallery behind the great 2nd wall                                              ',
   "<br>",
-  '<span class="command">hint 2</span>           the color of the crystal in a magical gallery behind the great 2nd wall',
+  '<span class="command">clue 2</span>           the name of Sri Kalas next song/at the',
+  '                    end of video in the Magical Gallery Wall',
   "<br>"
 ];
 
