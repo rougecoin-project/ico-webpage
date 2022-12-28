@@ -27,10 +27,10 @@ whoami = [
 
 comehome = [
   "<br>",
-  'home        <a href="' + youtube + '" target="_blank">youtube/srikala' + "</a>",
-  'twitter        <a href="' + twitter + '" target="_blank">twitter/srikalamusic' + '</a>',
-  'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/sri-kala-roach' + "</a>",
-  'instagram      <a href="' + instagram + '" target="_blank">instagram/srikalagram' + '</a>',
+  'home           <a href="' + youtube + '" target="_blank">home/srikala' + "</a>",
+  "<br>",
+  "<br>",
+  "<br>",
   "<br>"
 ];
 
