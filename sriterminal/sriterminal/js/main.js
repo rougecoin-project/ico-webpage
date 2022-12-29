@@ -38,7 +38,7 @@ function enterKey(e) {
       pwd = true;
     }
     if (pwd && e.keyCode == 13) {
-      loopLines(secretkey, "color2 margin", 120);
+      loopLines(key, "color2 margin", 120);
       command.innerHTML = "";
       textarea.value = "";
       pwd = false;
@@ -83,7 +83,7 @@ function commander(cmd) {
       loopLines(start, "color2 margin", 80);
       break;
     case "key":
-      loopLines(secretkey, "color2 margin", 80);
+      loopLines(key, "color2 margin", 80);
       break;
     case "whois":
       loopLines(whois, "color2 margin", 80);
