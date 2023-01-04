@@ -93,7 +93,7 @@ function commander(cmd) {
       break;
     case "music":
       addLine("Opening Spotify...", "color2", 80);
-      newTab(comehome);
+      newTab(youtube);
       break;
     case "purpleanuwe":
       addLine("Congratulations, you have hacked the algorhythm...", "color2", 80);
