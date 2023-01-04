@@ -1,9 +1,10 @@
-var youtube = "https://srikala.com/comehome";
+var youtube = "https://open.spotify.com/playlist/0YDe72K2Qq4F9wgILybjNp?si=2484bef12fa24c23";
 var twitter = "https://twitter.com/srikalamusic/";
 var password = "surrender";
 var linkedin = "https://www.linkedin.com/in/sri-kala-roach-469a9911";
 var instagram = "https://www.instagram.com/srikalagram";
 var email = 'mailto:admin@srikala.com';
+var comehome = "https://www.srikala.com/comehome"
 
 whois = [
   "<br>",
@@ -27,7 +28,7 @@ whoami = [
 
 comehome = [
   "<br>",
-  'home           <a href="' + youtube + '" target="_blank">home/srikala' + "</a>",
+  'home           <a href="' + comehome + '" target="_blank">home/srikala' + "</a>",
   "<br>",
   "<br>",
   "<br>",
@@ -37,12 +38,11 @@ comehome = [
 key = [
   "<br>",
   '<span class="command">clue 1</span>           the color of the crystal in a magical',
-  '                   gallery behind the great 2nd wall                                              ',
+  '                   gallery wall. Find Sri toning to the red rocks & go from there  ',
   "<br>",
-  '<span class="command">clue 2</span>           the name of Sri Kalas next song at the',
-  '                    end of the video in the Magical Gallery Wall',
-  '                    Find the graphic that says “Come Home” and the video', 
-  '                     is Sri vibing out in his studio... password= clue1clue2',
+  '<span class="command">clue 2</span>           the name of Sri Kalas next song in the',
+  '                    middle of a video in a Gallery Wall',
+  '                    Find Sri vibing out in his studio... password= clue1clue2',
   "<br>"
 ];
 

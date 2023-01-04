@@ -92,8 +92,8 @@ function commander(cmd) {
       loopLines(whoami, "color2 margin", 80);
       break;
     case "music":
-      addLine("Opening YouTube...", "color2", 80);
-      newTab(youtube);
+      addLine("Opening Spotify...", "color2", 80);
+      newTab(comehome);
       break;
     case "purpleanuwe":
       addLine("Congratulations, you have hacked the algorhythm...", "color2", 80);
