@@ -38,19 +38,7 @@
 	<!-- Theme Preview Only CSS -->
 	<link href="assets/css/theme-preview-color-styler.css" rel="stylesheet">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/web3/1.7.4-rc.1/web3.min.js"></script>
-	<script>
-		/* To connect using MetaMask */
-		async function connect() {
-		 if (window.ethereum) {
-		 
-		  await window.ethereum.request({ method: "eth_requestAccounts" });
-		  window.web3 = new Web3(window.ethereum);
-		  
-		 } else {
-		  console.log("No wallet");
-		 }
-		}
-		</script>
+	
 	<!-- jQuery -->
 	<script src="assets/vendor/jquery/jquery.min.js"></script>	
 
@@ -181,9 +169,7 @@
 				</div>
 			</div>
 			<div class="container pa-hero-content text-center">
-				<div>
-					<br><br><br><br><br><br><br><br><a class="pa-button-secondary pa-hvr-sweep-to-right fadeInRightDelay11Duration10" value="Connect Wallet" onclick="connect();">Connect</a></div>
-					</div>
+				
 				</div>
 			</div>
 		</div>
