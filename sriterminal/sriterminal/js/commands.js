@@ -37,12 +37,16 @@ comehome = [
 
 key = [
   "<br>",
-  '<span class="command">clue 1</span>           the color of the crystal in a magical',
-  '                   gallery wall. Find Sri toning to the red rocks & go from there  ',
+  '<span class="command">clue 1</span>           the color of the crystal',
+  '                  in a magical gallery wall',
+  '               Find Sri toning to the red rocks',
+  '                          & go from there  ',
   "<br>",
-  '<span class="command">clue 2</span>           the name of Sri Kalas next song in the',
-  '                    middle of a video in a Gallery Wall',
-  '                    Find Sri vibing out in his studio... password= clue1clue2',
+  '<span class="command">clue 2</span>         the name of Sri Kalas next',
+  '                song in the middle of a',
+  '                 video in a Gallery Wall',
+  '              Find Sri vibing out in his studio...',
+  '                          password= clue1clue2',
   "<br>"
 ];
 
